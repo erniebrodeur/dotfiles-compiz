@@ -3,5 +3,5 @@ loose binding = false
 indirect rendering = false
 
 [window manager]
-active wm = compiz
+active wm = xfwm4
 
